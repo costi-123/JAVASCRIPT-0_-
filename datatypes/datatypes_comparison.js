@@ -10,6 +10,10 @@
 // console.log("2" == 2); // here "2" (string) is converted into 2(number)
 // console.log("02" == 2); // here "02" (string) is converted into 2(number)
 
-console.log(null > 0);
-console.log(null == 0);
-console.log(null >= 0);
+// console.log(null > 0);
+// console.log(null == 0);
+// console.log(null >= 0);
+
+console.log(undefined > 0);
+console.log(undefined == 0);
+console.log(undefined >= 0);

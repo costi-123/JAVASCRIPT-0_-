@@ -15,4 +15,4 @@ console.log(1 + 2 + "2"); // 32 will be the output --> (1 + 2) = 3 + "2" =32
 console.log(+true); // gives answer --> 1
 console.log(+false); // gives answer -->0
 console.log(+""); // gives --> 0
-console.log(typeof +"hello")//+ operator can be used to change the datatype to number
+console.log(typeof +"hello")//+ operator can be used to change the datatype to number.
