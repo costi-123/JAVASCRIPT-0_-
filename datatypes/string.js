@@ -7,5 +7,6 @@ let str = String("vardhan") // declaring string as object
     
     
 // }
-console.log(str.charAt(2));
+// console.log(str.charAt(2));
 
+console.log(str.at(2));
