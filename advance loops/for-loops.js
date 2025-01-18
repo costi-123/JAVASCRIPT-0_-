@@ -25,7 +25,7 @@ let myObj = {
     "No.1" : "DEKU",
     "No.2" : "YORICHI",
     "No.3" : "kokushibo",
-    "No.4" : "KILLUA)"  ,
+    "No.4" : "KILLUA"  ,
 }
 
 for (const [key , name] of myObj) {
